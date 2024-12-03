@@ -1,6 +1,4 @@
-İşte Git ve GitHub sunumun için görsel olarak güzel görünen bir README.md dosyası taslağı: 
 
-```markdown
 # 🌟 Git ve GitHub Sunumu
 
 Bu repo, **Git ve GitHub** konularında hazırladığım sunumu içermektedir. Amacım, bu araçların temel kavramlarını ve kullanım senaryolarını kolayca öğrenmenize yardımcı olmaktır.
@@ -56,4 +54,3 @@ Sunuma katıldığınız ve projeye göz attığınız için teşekkür ederim. 
 > **Not:** Sunum sonundaki Kahoot yarışmasına katılmayı unutmayın! 🎉
 ```
 
-Bu README dosyası, hem içerik açısından bilgilendirici hem de düzenli bir yapıya sahiptir. İstersen projene özel ayrıntılarla zenginleştirebilirsin. 😊
